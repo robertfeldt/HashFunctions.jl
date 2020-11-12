@@ -1,0 +1,3 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+HashFunctions = "23012625-1e36-4c44-bc84-9ecedccf3ef6"
