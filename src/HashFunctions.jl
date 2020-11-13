@@ -1,5 +1,7 @@
 module HashFunctions
 
-# Write your package code here.
+export FNV1, FNV1A, calc
+
+include("fnv.jl")
 
 end
